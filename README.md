@@ -1,2 +1,2 @@
 # ignite-essay
-school project - kinda dumb
+school project - why do people still use windows?
