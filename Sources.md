@@ -13,3 +13,17 @@
 7. How CPU's work: https://www.quora.com/How-does-a-CPU-work?share=1
 
 8. Logic Gates: https://en.wikipedia.org/wiki/Logic_gate
+
+9. CPU memory: http://www.circuitstoday.com/flip-flops
+
+10. Logic Gates (again): https://www.circuitstoday.com/half-adder-and-full-adder
+
+11. Levels of programming languages: https://thebittheories.com/levels-of-programming-languages-b6a38a68c0f2
+
+12. Machine code: https://en.wikipedia.org/wiki/Machine_code
+
+13. Operating Systems: https://en.wikipedia.org/wiki/Operating_system
+
+14. Kernal: https://www.webopedia.com/TERM/K/kernel.html + https://www.quora.com/Is-an-operating-system-a-program-or-a-set-of-programs?share=1
+
+This is an errror
