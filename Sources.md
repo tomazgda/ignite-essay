@@ -39,3 +39,13 @@
 20. GNU: https://en.wikipedia.org/wiki/GNU
 
 21. Brief History of Microsoft: https://www.thoughtco.com/microsoft-history-of-a-computing-giant-1991140
+
+22. interpreter: https://en.wikipedia.org/wiki/Interpreter_(computing)
+
+23. Altair 8800: https://en.wikipedia.org/wiki/Altair_8800
+
+24. IBM PC: https://en.wikipedia.org/wiki/IBM_Personal_Computer
+
+25. IMB Microsoft Deal: https://thisdayintechhistory.com/11/06/ibm-signs-a-deal-with-the-devil/
+
+26. Four Essential Freedoms: https://www.gnu.org/philosophy/free-sw.en.html
