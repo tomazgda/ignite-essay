@@ -26,4 +26,16 @@
 
 14. Kernal: https://www.webopedia.com/TERM/K/kernel.html + https://www.quora.com/Is-an-operating-system-a-program-or-a-set-of-programs?share=1
 
-This is an errror
+15. Timeline of Windows: https://en.wikipedia.org/wiki/Timeline_of_Microsoft_Windows
+
+16. Windows 1.0: https://en.wikipedia.org/wiki/Windows_1.0
+
+17. MS-DOS: https://en.wikipedia.org/wiki/MS-DOS
+
+18. History of Microsoft: https://en.wikipedia.org/wiki/History_of_Microsoft
+
+19. History of Unix: https://en.wikipedia.org/wiki/History_of_Unix
+
+20. GNU: https://en.wikipedia.org/wiki/GNU
+
+21. Brief History of Microsoft: https://www.thoughtco.com/microsoft-history-of-a-computing-giant-1991140
