@@ -51,3 +51,9 @@
 26. Four Essential Freedoms: https://www.gnu.org/philosophy/free-sw.en.html
 
 27. History of UNIX: https://en.wikipedia.org/wiki/History_of_Unix
+
+28. Brief History of UNIX: https://www.omnisecu.com/gnu-linux/redhat-certified-engineer-rhce/unix-history.php
+
+29. Unix Timeline: https://www.computerworld.com/article/2524555/operating-systems-timeline-40-years-of-unix.html
+
+30. The Linux Kernel: https://en.wikipedia.org/wiki/History_of_Linux
