@@ -49,3 +49,5 @@
 25. IMB Microsoft Deal: https://thisdayintechhistory.com/11/06/ibm-signs-a-deal-with-the-devil/
 
 26. Four Essential Freedoms: https://www.gnu.org/philosophy/free-sw.en.html
+
+27. History of UNIX: https://en.wikipedia.org/wiki/History_of_Unix
